@@ -9,6 +9,9 @@ LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:63510082486944030
 This is a working AltCoin.
 There is a server working as as seed node with which you can play once you compile your own seed node & wallet, make transactions.
 
+We have an active Wallet on the server if you want to have fun and make transactions to it:
+3P16W6upgEjPj5HQYCiX4gcbVZ3NhUuNXWysV3RwxcHiggBZP8w6TpSEr8pzUgVfVchYpc8eGEumYSgHg7CL26Fi8Anxjur
+
 
 It is using ports:
 * 20001 for P2P
